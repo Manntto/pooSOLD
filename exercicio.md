@@ -85,3 +85,5 @@ Mostre como o sistema lida com essas novas funcionalidades sem a necessidade de 
     *   Um arquivo `ANALISE.md` contendo a sua análise das violações dos princípios SOLID e a explicação das suas refatorações.
 4.  Faça o commit e o push das suas alterações para o seu fork.
 5.  **Abra um Pull Request (PR)** do seu fork para este repositório original. O sistema de integração contínua irá verificar sua solução.
+
+
